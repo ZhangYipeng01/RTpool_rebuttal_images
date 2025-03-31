@@ -1,1 +1,1 @@
-# RTpool_rebuttal_images
+![RTpool_visualization](RT_pool_visualization.png)
