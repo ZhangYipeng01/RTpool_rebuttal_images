@@ -1,1 +1,1 @@
-![RTpool_visualization](RT_pool_visualization.png)
+![RTpool_visualization](RTPool_Visualization.png)
